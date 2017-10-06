@@ -1,6 +1,6 @@
 /*
 *Eric Kannampuzha
-*Exercise 1
+*Project 1
 *Class EchoClient
 *CS 380
 *Nima
